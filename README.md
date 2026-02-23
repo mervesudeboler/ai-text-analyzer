@@ -17,3 +17,7 @@ in real-world scenarios.
 
 ## Project Status
 This project is under active development.
+
+## How to Run
+```bash
+python3 main.py
