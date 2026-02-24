@@ -1,0 +1,9 @@
+cat > requirements.txt << 'EOF'
+scikit-learn
+numpy
+pandas
+nltk
+langdetect
+matplotlib
+wordcloud
+EOF
