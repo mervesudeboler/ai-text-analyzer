@@ -1,23 +1,14 @@
-# AI Text Analyzer
+# 🤖 AI-Powered Text Analytics Suite
 
-## Description
-This project is a simple AI-based application for analyzing and classifying text data.
-It demonstrates how basic natural language processing techniques can be applied
-in real-world scenarios.
+A professional-grade Python tool for Natural Language Processing (NLP). This project provides deep insights into text data through frequency analysis, sentiment scoring, and high-impact visualizations.
 
-## Technologies
-- Python
-- Machine Learning
-- Natural Language Processing (NLP)
+## 🌟 Key Features
+- **Sentiment Analysis:** Uses VADER Lexicon to determine the emotional tone of the text.
+- **Advanced Filtering:** Automatically removes "stop words" in both English and Turkish.
+- **Visual Intelligence:** Generates professional Bar Charts and Word Clouds.
+- **Clean Architecture:** Built using Object-Oriented Programming (OOP) for scalability.
 
-## What I Learned
-- Text preprocessing techniques
-- Feature extraction from raw text
-- Applying machine learning models to practical problems
-
-## Project Status
-This project is under active development.
-
-## How to Run
+## 🛠 Installation
+Ensure you have Python 3.8+ installed, then run:
 ```bash
-python3 main.py
+pip install -r requirements.txt
